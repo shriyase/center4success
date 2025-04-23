@@ -1,10 +1,7 @@
 import streamlit as st
 import pandas as pd
-import seaborn as sns
 import matplotlib.pyplot as plt
-import matplotlib.dates as mdates
 from wordcloud import WordCloud
-import numpy as np
 import altair as alt
 
 st.set_page_config(layout="centered")

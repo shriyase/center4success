@@ -1,0 +1,4 @@
+altair
+wordcloud
+pandas
+matplotlib.pyplot
