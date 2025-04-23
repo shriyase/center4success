@@ -1,4 +1,4 @@
 altair
 wordcloud
 pandas
-matplotlib.pyplot
+matplotlib
